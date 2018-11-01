@@ -1,0 +1,7 @@
+raw_data_zone_bucket_name = "icg-raw-data-zone-s3"
+raw_data_zone_kms_key_name = "icg-raw-data-zone-kms"
+raw_data_zone_bucket_acl = "private"
+maintainer = "*****"
+maintainer_email = "******"
+stack = "dev"
+stack_expiresat = "2018-12-31"
