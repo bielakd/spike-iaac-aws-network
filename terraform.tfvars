@@ -10,3 +10,5 @@ maintainer = "icg-aspire"
 maintainer_email = "aspire@icgam.com"
 stack = "dev"
 stack_expiresat = "2018-12-31"
+
+raw_data_zone_bu_key = "/PEFI"
